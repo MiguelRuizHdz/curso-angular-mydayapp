@@ -17,4 +17,11 @@ export class LabsComponent {
   ];
   name = 'Miguel';
   age = '18';
+  disabled = true;
+  img = "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png";
+  person = {
+    name: 'Miguel',
+    age: '18',
+    avatar: "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
+  };
 }
